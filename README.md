@@ -2,13 +2,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/{nickname}/{project_name}">
-    <img src="https://ucarecdn.com/7d1bd7eb-58a3-46ac-ba0f-01cf757d3fb2/" alt="Logo">
+    <img src="https://ucarecdn.com/6a15134d-c94b-4033-a7ae-85b015899228/" alt="Logo">
   </a>
 
-  <h3 align="center">Fish Gallery</h3>
+  <h3 align="center">Your scary places</h3>
 
   <p align="center">
-    An awesome mobile application for the company "Blue Rose".
+    An awesome mobile application for the company "BloodMoon".
     <br />
     <br />
     <a href="https://github.com/{nickname}/{project_name">View Demo</a>
@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](https://ucarecdn.com/7d1bd7eb-58a3-46ac-ba0f-01cf757d3fb2/)
+![Product Name Screen Shot](https://ucarecdn.com/6a15134d-c94b-4033-a7ae-85b015899228/)
 
 A simple mobile application that solved many of the company's problems. 
 
@@ -34,6 +34,7 @@ Features:
 - Multi-language support
 
 </br>
+
 
 
 
@@ -65,7 +66,7 @@ Modern mobile applications use modern libraries, and therefore we use the best l
 # Demo
 
 ## Screens
-<img src="https://ucarecdn.com/75da5441-f722-43a1-8e48-255b7770192a/" width="49%"> <img src="https://ucarecdn.com/047a2cd9-3eb7-4f47-9818-725c1557c03e/" width="49%">
+<img src="https://ucarecdn.com/c919c338-1d9a-47b9-99cd-67e93d196578/" width="49%"> <img src="https://ucarecdn.com/af0ecaeb-72b9-46cc-ab29-229b8a944740/" width="49%">
 
 </br>
 
